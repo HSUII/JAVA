@@ -1,4 +1,4 @@
-
+//기초 변수 공부
 public class Ex02 {
 
 
