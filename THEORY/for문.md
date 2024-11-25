@@ -31,5 +31,6 @@ public class Solution {
 ```
 <문자열 a를 분리시켜 출력하는 프로그램>          
 
-      
-
+![image](https://github.com/user-attachments/assets/c7c210a2-d098-4b74-9e40-baaa94fd4734)
+   
+<결과값>
