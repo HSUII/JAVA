@@ -34,3 +34,26 @@ public class Solution {
 ![image](https://github.com/user-attachments/assets/c7c210a2-d098-4b74-9e40-baaa94fd4734)
    
 <결과값>
+
+```java
+
+import java.util.*;
+
+public class Main {    
+	public static void main(String[] args) {          
+		List<String> list = new ArrayList<>();
+        list.add("딸기");
+        list.add("포도");
+        list.add("메론");
+        
+        for (int i=0; i<list.size(); i++) {
+        	System.out.println(list.get(i));
+        }      
+        System.out.println("==========");        
+        for (String str : list) {
+        	System.out.println(str);
+        }      
+    }	
+}
+```
+<예시2>    
